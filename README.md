@@ -37,6 +37,13 @@
 
 ---
 
+## 🎯 Career Goal
+
+To become a professional Data Scientist specializing in  
+Machine Learning, Data Analytics, and AI technologies
+
+---
+
 ## 📫 Connect With Me
 
 - 🌐 GitHub: github.com/hari4421
