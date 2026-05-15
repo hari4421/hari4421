@@ -55,7 +55,7 @@ To become a professional **Data Scientist** specializing in
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,power bi,machine learning,git,github,vscode" />
 </p>
 
 ---
