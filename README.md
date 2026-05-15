@@ -40,7 +40,7 @@
 ## 🎯 Career Goal
 
 To become a professional Data Scientist specializing in  
-Machine Learning, Data Analytics, and AI technologies
+**Python**, **SQL**, **Power Bi**, **Machine Learning**, Data Analytics, and AI technologies
 
 ---
 
