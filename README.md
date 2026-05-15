@@ -48,7 +48,7 @@ To become a professional Data Scientist specializing in
 
 - 🌐 GitHub: github.com/hari4421
 - 💼 LinkedIn:https://www.linkedin.com/in/hari-krishna-gummadi/?skipRedirect=true 
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: gummadihari2002@gmail.com
 
 ---
 
