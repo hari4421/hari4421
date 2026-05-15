@@ -52,4 +52,14 @@ To become a professional Data Scientist specializing in
 
 ---
 
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+---
+
+<h3 align="center">
 ⭐ “Turning ideas into real-world technology solutions.” 🚀
+</h3>
