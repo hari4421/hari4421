@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- 🔹 Passionate about Data Science, Python, and modern technologies
-- 🌱 Skilled in Python, SQL, Power BI, and Machine Learning
+- 🔹 Passionate about **Data Science**, **Python**, and modern technologies
+- 🌱 Skilled in **Python**, **SQL**, **Power BI**, and **Machine Learning**
 - 📚 Interested in real-world problem solving and smart technology projects
 - 💡 Continuously learning and building innovative solutions
 - 🎯 Goal: Become a skilled Data Scientist / Data Analyst
