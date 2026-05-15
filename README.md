@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Hari Krishna
 
-<!--
-**hari4421/hari4421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | 📊 Data Science Enthusiast | 🤖 ML Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔹 Passionate about Data Science, Python, and modern technologies
+- 🌱 Skilled in Python, SQL, Power BI, and Machine Learning
+- 📚 Interested in real-world problem solving and smart technology projects
+- 💡 Continuously learning and building innovative solutions
+- 🎯 Goal: Become a skilled Data Scientist / Data Analyst
+
+---
+
+## 🛠️ Technical Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 🤖 Machine Learning
+- 📈 Data Analysis
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🚜 Auto Position Shifting of Drip Irrigation
+- Developed a smart irrigation system for efficient water management
+- Focused on automation and agricultural technology improvements
+
+### 🚨 Women Security System using GSM & GPS
+- Designed a safety system with live location tracking and emergency alerts
+- Integrated GSM and GPS technologies for real-time communication
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: github.com/hari4421
+- 💼 LinkedIn: Add your LinkedIn link
+- 📧 Email: yourmail@gmail.com
+
+---
+
+⭐ “Turning ideas into real-world technology solutions.” 🚀
