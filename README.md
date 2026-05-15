@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🔹 Passionate about **Data Science**, **Python**, and modern technologies
-- 🌱 Skilled in **Python**, **SQL**, **Power BI**, and **Machine Learning**
+- 🌱 Skilled in **Python**, **MySQL**, **Power BI**, and **Machine Learning**
 - 📚 Interested in real-world problem solving and smart technology projects
 - 💡 Continuously learning and building innovative solutions
 - 🎯 Goal: Become a skilled **Data Scientist** / **Data Analyst**
@@ -17,7 +17,7 @@
 ## 🛠️ Technical Skills
 
 - 🐍 Python
-- 🗄️ SQL
+- 🗄️ MySQL
 - 📊 Power BI
 - 🤖 Machine Learning
 - 📈 Data Analysis
@@ -40,7 +40,7 @@
 ## 🎯 Career Goal
 
 To become a professional **Data Scientist** specializing in  
-**Python**, **SQL**, **Power Bi**, **Machine Learning**, Data Analytics, and AI technologies
+**Python**, **MySQL/SQL**, **Power Bi**, **Machine Learning**, Data Analytics, and AI technologies
 
 ---
 
