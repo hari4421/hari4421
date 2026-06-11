@@ -16,12 +16,16 @@
 
 ## 🛠️ Technical Skills
 
-- 🐍 Python
-- 🗄️ MySQL
-- 📊 Power BI
-- 🤖 Machine Learning
-- 📈 Data Analysis
-- 🔧 Git & GitHub
+* 🐍 Python
+* 🗄️ SQL / MySQL
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 📈 Data Visualization
+* 🐼 Pandas & NumPy
+* 🧠 Scikit-learn
+* 📋 Power BI
+* 🔧 Git & GitHub
+
 
 ---
 
