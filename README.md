@@ -26,14 +26,14 @@
 ---
 
 ## 📂 Projects
+### 🏥 Insurance Cost Prediction
+* Developed a **Machine Learning** model to predict medical insurance charges using demographic and health-related factors.
+* Performed **Data Preprocessing**, **Feature Encoding**, and **Exploratory Data Analysis (EDA)** using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
+* Built and compared **Linear Regression**, **Decision Tree Regression**, and **Random Forest Regression** models using **Scikit-learn**.
+* Selected **Random Forest Regression** as the best-performing model and saved the trained model using **Joblib** for future predictions.
 
-### 🚜 Auto Position Shifting of Drip Irrigation
-- Developed a smart irrigation system for efficient water management
-- Focused on automation and agricultural technology improvements
-
-### 🚨 Women Security System using GSM & GPS
-- Designed a safety system with live location tracking and emergency alerts
-- Integrated **GSM** and **GPS** technologies for real-time communication
+- 
+  
 
 ---
 
