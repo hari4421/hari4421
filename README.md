@@ -32,7 +32,6 @@
 * Built and compared **Linear Regression**, **Decision Tree Regression**, and **Random Forest Regression** models using **Scikit-learn**.
 * Selected **Random Forest Regression** as the best-performing model and saved the trained model using **Joblib** for future predictions.
 
-- 
   
 
 ---
