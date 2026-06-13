@@ -37,7 +37,13 @@
 * Selected **Random Forest Regression** as the best-performing model and saved the trained model using **Joblib** for future predictions.
 
   
+### 🛒 Retail Inventory Management System
 
+* Developed a Retail Inventory Management System using **Python, MySQL, and Pandas**.
+* Implemented **CRUD operations** to manage product inventory records efficiently.
+* Integrated **MySQL Database Connectivity** and imported product data from CSV files using **Pandas**.
+* Built a **menu-driven application** for viewing, searching, adding, updating, and deleting inventory records.
+  
 ---
 
 ## 🎯 Career Goal
